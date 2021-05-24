@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://www.linkedin.com/in/abbas-samadani-40264a1ba/
 [portfolio]: https://arsentieva.github.io/profile/
 
 
