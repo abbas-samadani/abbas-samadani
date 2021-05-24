@@ -70,6 +70,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
-[linkedin]: https://www.linkedin.com/in/abbas-samadani-40264a1ba/
+
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/
 
 
