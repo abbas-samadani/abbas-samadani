@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm Abbas  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://dg-ux-web-developer.netlify.app/img/tristan.gif" width="500" height="320" />
 
 
 ## I'm a software developer
