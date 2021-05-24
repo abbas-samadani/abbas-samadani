@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 ## I'm a software developer
-- ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on a project for squad company
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source
